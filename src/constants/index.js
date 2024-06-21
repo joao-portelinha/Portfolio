@@ -2,7 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 
 export const HERO_CONTENT = `Hi! I'm João, i'm 26 years old. I'm from the beautiful city Sines in Portugal, gratuated in Computer Science at Instituto Politécnico de Beja and i am ready to enter the job market, improve on what i already know and learn new technologies.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I started my journey in the world of IT in 2013 when I decided to undertake a professional course in Management Informatics. I've always had a love of computers and video games, so it only made sense to follow this path. Now I have a degree in Computer Engineering with a wide range of skills in various technologies such as Java, Python and Front-End technologies (HTML, CSS, Javascript).`;
 
 export const EXPERIENCES = [
   {

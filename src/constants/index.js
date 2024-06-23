@@ -9,14 +9,14 @@ export const EXPERIENCES = [
     year: "March 2018 - August 2018",
     role: "IT Technician - Internship",
     company: "DO IT BETTER!",
-    description: ``,
+    description: `Internship carried out as part of the Higher Professional Technical Course at DO IT BETTER's headquarters in Lisbon, where it was possible to apply a wide range of skills from Front-End programming on the website, hardware management and maintenance, PHC software management and scripting.`,
     technologies: ["Hardware", "HTML", "CSS", "Javascript"],
   },
   {
     year: "May 2016 - July 2016",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: ``,
+    role: "IT Technician - Internship",
+    company: "Três Mosqueteiros, LDA",
+    description: `As part of the professional Informática de Gestão course, a curricular internship was carried out at the company Três Mosqueteiros, LDA (TML), in which knowledge was applied in terms of programming, information and communication technologies and hardware. Website designing from scratch.`,
     technologies: ["HTML", "CSS", "Javascript"],
   },
 ];
